@@ -2,8 +2,9 @@
 
 My very first applicable project. 
 
-Raw code that Utilizes the Robin-Stocks API, to day trade options.
-The code purchases a call and a put of the same option and 
+Raw code that Utilizes the Robin-Stocks API used to:
+
+Simultaneously purchased call and put options on SPDR S&P ETF during turbulent times in the market to profit off of volatility in any direction 
 
 
 
